@@ -1,0 +1,51 @@
+[
+  {
+    "title": "C",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/CPP.png"
+  },
+    {
+    "title": "Data Structures",
+    "imageSrc": "skills/ds.png"
+  },
+  {
+    "title": "Algorithms",
+    "imageSrc": "skills/Algorithm.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javaScript.png"
+  },
+  {
+    "title": "ReactJs",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "ExpressJs",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "DBMS",
+    "imageSrc": "skills/DBMS.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  }
+  ,
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  }
+]

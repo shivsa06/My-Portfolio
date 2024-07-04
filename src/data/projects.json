@@ -1,0 +1,50 @@
+[
+    {
+    "title": "To Do Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn React fundamentals by building an app.",
+    "skills": ["ReactJs", "State Management", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Brand Page",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the how to build static page",
+    "skills": ["ReactJs", "State Management", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CRUD Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the How CRUD Operation works.",
+    "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Book Store Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the How CRUD Operation works.",
+    "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Restaurant Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn how to build static website using ReactJs",
+    "skills": ["ReactJs", "Component Structure", "Material UI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Wheather Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.how to build static.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
