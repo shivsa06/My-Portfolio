@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "C",
     "imageSrc": "skills/C.png"
   },
@@ -7,13 +6,17 @@
     "title": "C++",
     "imageSrc": "skills/CPP.png"
   },
-    {
+  {
     "title": "Data Structures",
     "imageSrc": "skills/ds.png"
   },
   {
     "title": "Algorithms",
     "imageSrc": "skills/Algorithm.png"
+  },
+  {
+    "title": "OOPs",
+    "imageSrc": "skills/OOPs.png"
   },
   {
     "title": "JavaScript",
@@ -42,8 +45,7 @@
   {
     "title": "HTML",
     "imageSrc": "skills/html.png"
-  }
-  ,
+  },
   {
     "title": "CSS",
     "imageSrc": "skills/css.png"

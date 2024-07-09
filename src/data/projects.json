@@ -1,11 +1,34 @@
-[
-    {
+[{
+    "title": "Book Store Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the How CRUD Operation works.",
+    "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shivsa06/Book-Keeping"
+  },
+  {
+    "title": "CRUD Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the How to work on CRUD Operations.",
+    "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shivsa06/Basic-CRUD"
+  },
+  {
     "title": "To Do Application",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn React fundamentals by building an app.",
     "skills": ["ReactJs", "State Management", "Component Structure"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/shivsa06/To-Do-Application"
+  },
+  {
+    "title": "Restaurant Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn how to build static website using ReactJs",
+    "skills": ["ReactJs", "Material UI", "Component Structure"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shivsa06/Restaurant-Website"
   },
   {
     "title": "Brand Page",
@@ -13,38 +36,14 @@
     "description": "This is a project made to learn the how to build static page",
     "skills": ["ReactJs", "State Management", "Component Structure"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/shivsa06/Brand-Page"
   },
   {
-    "title": "CRUD Application",
+    "title": "Basic Form Operations",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the How CRUD Operation works.",
-    "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
+    "description": "This is a project made to learn how we can done form validation.",
+    "skills": ["ReactJs", "JavaScript", "Component Structure"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Book Store Application",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the How CRUD Operation works.",
-    "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Restaurant Website",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn how to build static website using ReactJs",
-    "skills": ["ReactJs", "Component Structure", "Material UI"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Wheather Application",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.how to build static.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/shivsa06/Form-Operation"
   }
 ]

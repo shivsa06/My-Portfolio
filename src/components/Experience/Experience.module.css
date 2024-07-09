@@ -29,6 +29,13 @@
   gap: 37px;
 }
 
+.experience {
+  width: 95%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 37px;
+}
+
 .skill {
   display: flex;
   flex-direction: column;

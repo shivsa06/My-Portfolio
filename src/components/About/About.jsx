@@ -19,8 +19,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I am a frontend developer with experience in building responsive
-                and optimized sites
+                I am a frontend developer with a proven track record in
+                designing and developing highly responsive and optimized
+                websites that deliver exceptional user experiences.
               </p>
             </div>
           </li>
@@ -29,19 +30,33 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I am a backend developer with experience in designing and
+                implementing efficient and scalable server-side solutions,
+                ensuring robust performance and seamless functionality for web
+                applications.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Intrested in Data Structures and Algorithm</h3>
+              <h3>Version Control</h3>
               <p>
-                I know how to efficiently store data in structures along with
-                many operations. I have also knowlege of how to analyse time
-                complexity of given algorithm
+                Proficient in using Git for version control, GitHub for
+                collaborative software development, and project management,
+                ensuring efficient team collaboration and code versioning.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>RDBMS</h3>
+              <p>
+                I can work with databases that support SQL, utilizing MySQL for
+                efficient data management and enhanced performance in web
+                applications, focusing on database normalization techniques and
+                transaction & concurrency control.
               </p>
             </div>
           </li>

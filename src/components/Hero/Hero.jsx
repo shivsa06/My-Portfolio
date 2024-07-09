@@ -9,8 +9,12 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Shivam Saxena</h1>
         <p className={styles.description}>
-          I am Full Stack Developer(MERN) having good knowledge of Data
-          Structures, Algorithm and Relational Database Management System.
+          I am a dedicated and skilled software developer with a strong
+          foundation in C/C++ programming, data structures, and algorithms. My
+          technical expertise extends to RDBMS and JavaScript, along with a
+          specialization in web development using the MERN stack. I am
+          proficient in creating responsive and dynamic web applications,
+          leveraging frameworks like Bootstrap to enhance user interfaces.
         </p>
         <a href="mailto:mailshivsa@gmail.com" className={styles.contactBtn}>
           Contact Me

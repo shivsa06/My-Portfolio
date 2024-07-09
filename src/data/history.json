@@ -1,10 +1,8 @@
-[
-  {
-    "role": "Software Engineer Intern",
-    "organisation": "BRN Infotech",
-    "startDate": "Mar, 2023",
-    "endDate": "Sep, 2023",
-    "experiences": ["Develop and maintain web applications using the MERN stack.", "Developed reusable React components and user interfaces.", "Implement state management ensures cross-browser compatibility, responsiveness", "Optimize front end performance for faster load times.", "Build RESTful APIs using ExpressJs to handle data requests and responses.", "Design and implement data models and schemas using MongoDB"],
-    "imageSrc": "history/internship.png"
-  }
-]
+[{
+  "role": "Software Engineer Intern",
+  "organisation": "BRN Infotech",
+  "startDate": "Mar, 2023",
+  "endDate": "Aug, 2023",
+  "experiences": ["Implement state management ensures cross-browser compatibility and responsiveness.", "Optimize front end performance for faster load times.", "Build RESTful APIs using ExpressJs to handle data requests and responses.", "Design and implement data models and schemas using MongoDB and other Databases.", "Utilize React hooks or state management libraries to manage application state effectively.", "Created responsive and interactive user interfaces using ReactJs, integrating with backend APIs for data manipulation.", "Successfully deployed a scalable CRUD application using MERN Stack and Form Operations using the ReactJS, achieving 99.9% uptime.", "Build RESTful APIs using NodeJs and ExpressJs to handle CRUD operations and serve data to the frontend.", "Implemented secure authentication mechanisms, including JWT tokens, to authenticate and authorize users accessing the application.", "Designed a responsive user interface component using ReactJs, ensuring seamless functionality across various devices and screen sizes."],
+  "imageSrc": "history/internship.png"
+}]
