@@ -4,7 +4,7 @@
     "description": "This is a project made to learn the How CRUD Operation works.",
     "skills": ["ReactJs", "ExpressJs", "MySQL", "Tailwind", "Component Structure"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/shivsa06/Book-Keeping"
+    "source": "https://github.com/shivsa06/Book-Store-Application"
   },
   {
     "title": "CRUD Application",
@@ -44,6 +44,6 @@
     "description": "This is a project made to learn how we can done form validation.",
     "skills": ["ReactJs", "JavaScript", "Component Structure"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/shivsa06/Form-Operation"
+    "source": "https://github.com/shivsa06/Form-Operations"
   }
 ]
